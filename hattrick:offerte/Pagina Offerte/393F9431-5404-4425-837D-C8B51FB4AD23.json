@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "AE1AEAD6-7E57-4CF2-8C0D-452BD6F0DE70",
+  "do_objectID": "393F9431-5404-4425-837D-C8B51FB4AD23",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 2214.054054054054,
-    "width": 1024,
-    "x": 0,
-    "y": 0
+    "height": 3150.77001953125,
+    "width": 1024.000256347656,
+    "x": 1888,
+    "y": -215
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/885c704389f6f2e4d05678fa754d006c0e271dbf",
+    "_ref": "images/0cc5d212d447604aed8a5239408d5ce779003bd5",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "WhatsApp Image 2018-02-01 at 17.31.22",
+  "name": "WhatsApp Image 2018-02-01 at 17.30.53",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,15 +47,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 2214.054,
+            "constant": 3150.77,
             "enabled": 1,
-            "modelID": "constraint_fe1a1575-6056-45e7-a152-1b618f4adcbc",
+            "modelID": "constraint_c982fe9a-6229-4561-8e06-3c0bfdfb0a92",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 1024
           },
           "automatic": 1,
-          "modelID": "viewConstraints_e02ec4b2-da0e-492f-919b-a2ba0205e2de",
+          "modelID": "viewConstraints_d1085b9a-42db-4a9c-bd11-5966a67ed0cc",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
