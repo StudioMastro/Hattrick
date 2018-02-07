@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CC0DEEEE-B9E1-4F5A-8DD3-96E6C2CDBD63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 31,
+    "width": 74,
+    "x": 197,
+    "y": 113
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 5,
+  "masterInfluenceEdgeMinXPadding": 2,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Speciality",
+  "nameIsFixed": true,
+  "originalObjectID": "77B3D854-CDB2-4791-BFCF-21C39EA0E35C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE0C9E1F-9F9A-4CA8-9217-672BF802DE5B/B30D2F4E-A6BC-4B3D-83CA-892ECEDE46DE_stringValue",
+      "value": "Specialty"
+    }
+  ],
+  "overrides": {
+    "BE0C9E1F-9F9A-4CA8-9217-672BF802DE5B": {
+      "B30D2F4E-A6BC-4B3D-83CA-892ECEDE46DE": "Specialty"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "94A8CAD4-D44C-443A-90BC-4DB057C8A993",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

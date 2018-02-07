@@ -33,24 +33,28 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "393F9431-5404-4425-837D-C8B51FB4AD23"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0283CD9A-E5C1-45D7-8883-EAE56648531A"
-    },
-    {
       "class": "artboard",
       "id": "6565841F-7ABA-4492-ADE4-E07DCC629FB1"
     },
     {
       "class": "artboard",
-      "id": "D5A388E3-C9EB-4ABA-838F-C743E4190376"
+      "id": "18BDBDC2-FF59-4F30-9609-D9AFF2DC4EEE"
     },
     {
       "class": "artboard",
-      "id": "1EC9EF0F-00D4-40C6-A21D-203C3D61DB1C"
+      "id": "1EEDB18B-76CC-424F-94CD-592DECFF8B69"
+    },
+    {
+      "class": "artboard",
+      "id": "C63692FF-8DC2-4997-8F6A-F0414A50A7F4"
+    },
+    {
+      "class": "artboard",
+      "id": "B17C5D3F-6866-40E0-B461-1DC01392F69A"
+    },
+    {
+      "class": "artboard",
+      "id": "32B872EA-0C85-4340-B012-8D0E716835C5"
     },
     {
       "class": "artboard",
@@ -68,6 +72,15 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorDimension": 1,
+      "distributorSpacing": "4"
+    },
+    "com.invision.prototype": {
+      "includeHotspotsWhenSyncing": 0
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

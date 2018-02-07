@@ -16,7 +16,7 @@
     "height": 64,
     "width": 1024,
     "x": 0,
-    "y": 32
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,11 +25,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Header",
   "nameIsFixed": false,
+  "originalObjectID": "95D9AA65-5690-4FB7-993C-1EC5AE18E312",
   "overrideValues": [
   ],
   "overrides": {

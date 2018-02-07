@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1024,
-    "x": 5778,
-    "y": -215
+    "x": 3036,
+    "y": -274
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -46,7 +46,7 @@
       "id": "BAAEA7AE-9709-4EFB-AAB0-EB910B3ECB42"
     }
   ],
-  "name": "v",
+  "name": "Ricerca/Semplice",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

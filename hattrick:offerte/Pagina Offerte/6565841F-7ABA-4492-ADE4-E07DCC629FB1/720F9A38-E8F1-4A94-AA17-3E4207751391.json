@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 110,
-    "x": 601,
-    "y": 144
+    "x": 593,
+    "y": 113
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,8 +28,9 @@
   "masterInfluenceEdgeMaxYPadding": 5,
   "masterInfluenceEdgeMinXPadding": 2,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "Button / Primary",
-  "nameIsFixed": false,
+  "name": "Current Bid/Price",
+  "nameIsFixed": true,
+  "originalObjectID": "77B3D854-CDB2-4791-BFCF-21C39EA0E35C",
   "overrideValues": [
     {
       "_class": "overrideValue",

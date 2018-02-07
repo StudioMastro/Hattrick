@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 94,
+  "changeIdentifier": 99,
   "do_objectID": "386C65C3-4EC4-49D2-9CB8-569BBF3295BD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,7 @@
   ],
   "name": "Button / Text / Grey",
   "nameIsFixed": true,
+  "originalObjectID": "386C65C3-4EC4-49D2-9CB8-569BBF3295BD",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

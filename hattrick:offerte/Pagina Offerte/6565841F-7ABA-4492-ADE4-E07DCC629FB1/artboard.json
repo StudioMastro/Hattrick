@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3151,
+    "height": 1024,
     "width": 1024,
-    "x": 1888,
-    "y": -215
+    "x": 4160,
+    "y": -274
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,28 +42,28 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "595761F5-392F-43AE-9AFB-19CC383E8C1F"
-    },
-    {
-      "class": "text",
-      "id": "1CDD634C-14EC-408A-BDC7-210681E618CD"
+      "class": "symbolInstance",
+      "id": "C019890D-162F-4372-B0D1-7DD7E697E2CF"
     },
     {
       "class": "group",
-      "id": "A2B5EDB9-A03B-4955-BADF-36980448E500"
+      "id": "D14EE239-E4D9-43F5-80D8-52BA4242006A"
     },
     {
       "class": "symbolInstance",
-      "id": "06B3FA95-AB8E-4171-9C90-88EFAAB3DECB"
+      "id": "3CAB3022-0973-4716-9F0C-175A4A0E6443"
     },
     {
       "class": "symbolInstance",
-      "id": "0AC20E05-A7C5-4D2D-BB32-7108CD7FABE7"
+      "id": "C41A0EC3-7049-4886-AABD-09CDD1B14515"
     },
     {
       "class": "symbolInstance",
-      "id": "AEAA9B53-FAA9-4417-B045-E033BF173F58"
+      "id": "67A0D5F3-1850-4E16-AEA9-73AC0D12A06E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9091A22-A328-43DA-B518-6788D999D620"
     },
     {
       "class": "symbolInstance",
@@ -71,47 +71,23 @@
     },
     {
       "class": "symbolInstance",
-      "id": "34FA4360-45F5-4D1F-8E1A-ABAC523E6C6D"
+      "id": "AA82D8AC-FC47-4ED8-A15F-E97BE6E2B819"
     },
     {
       "class": "symbolInstance",
-      "id": "D1740451-885B-44F5-A46F-EA01D77DA752"
-    },
-    {
-      "class": "text",
-      "id": "6828A238-5C9A-4CC0-A581-A6F2BBF6A4F7"
-    },
-    {
-      "class": "text",
-      "id": "A43F7D88-A67B-4DD8-9EDB-39C5E11039E1"
-    },
-    {
-      "class": "text",
-      "id": "4B1F06BB-F45E-4D73-B977-ED700DBACA6B"
-    },
-    {
-      "class": "text",
-      "id": "EF56806C-C05F-4806-A85B-F7FCD25C0A3A"
-    },
-    {
-      "class": "text",
-      "id": "5EBBE1D2-7FB1-4C98-9042-C71ED42582C9"
-    },
-    {
-      "class": "text",
-      "id": "FDB4DF4F-12F4-45E9-BAFC-39084C10D86F"
-    },
-    {
-      "class": "group",
-      "id": "6507AF31-DD3D-42A9-8B7B-9133B188AB3D"
+      "id": "7F9F2330-A3D4-40C3-A700-462C66D05A2E"
     },
     {
       "class": "symbolInstance",
-      "id": "421069BB-B480-4ED3-86C6-9B397DDD9C1E"
+      "id": "720F9A38-E8F1-4A94-AA17-3E4207751391"
     },
     {
       "class": "symbolInstance",
-      "id": "7E69C0D1-4AF8-4CC2-8F70-764BEFA20E04"
+      "id": "C433C617-1200-4DAA-A788-4E2DCB85C82D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F826ACBF-826C-4ADE-AC21-7CE220AC4A70"
     },
     {
       "class": "symbolInstance",
@@ -123,30 +99,38 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F826ACBF-826C-4ADE-AC21-7CE220AC4A70"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C433C617-1200-4DAA-A788-4E2DCB85C82D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "720F9A38-E8F1-4A94-AA17-3E4207751391"
+      "id": "7E69C0D1-4AF8-4CC2-8F70-764BEFA20E04"
     },
     {
       "class": "group",
-      "id": "9EDC988E-AAC3-4B5F-99B0-2544D328B320"
+      "id": "6507AF31-DD3D-42A9-8B7B-9133B188AB3D"
     },
     {
-      "class": "group",
-      "id": "F84566FE-924A-4DBC-AE57-997C80789293"
+      "class": "symbolInstance",
+      "id": "421069BB-B480-4ED3-86C6-9B397DDD9C1E"
+    },
+    {
+      "class": "text",
+      "id": "6828A238-5C9A-4CC0-A581-A6F2BBF6A4F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "217F69BC-0BD3-4451-8410-A2D088EEC8DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FBFDED3-C8E7-4CCE-B144-1ACAB62EF5FB"
     },
     {
       "class": "symbolInstance",
       "id": "E21A26B2-F6A2-4C2B-803D-CEA0AE8963CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "858234B7-F68C-4AB7-9E81-48B93067CDD6"
     }
   ],
-  "name": "Filtering Opzioni Ricerca",
+  "name": "Ricerca/Age",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

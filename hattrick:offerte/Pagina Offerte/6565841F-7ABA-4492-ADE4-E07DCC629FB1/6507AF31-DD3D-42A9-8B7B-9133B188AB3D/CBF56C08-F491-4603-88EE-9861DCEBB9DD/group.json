@@ -13,33 +13,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
+    "height": 15,
     "width": 265,
-    "x": 12,
-    "y": 30
+    "x": 16,
+    "y": 31
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "5C4DD4C2-57C4-4968-A0E6-9B3C4DFBF31C"
     },
     {
-      "class": "group",
-      "id": "9701ECA0-8BA3-4961-A6B1-30F690C23B6A"
+      "class": "symbolInstance",
+      "id": "28B6AAC8-DBA6-45AC-AEE1-B1F4535DB9F9"
     },
     {
       "class": "text",
       "id": "0F975786-F631-431A-9279-3A86BCA6D479"
     },
     {
-      "class": "group",
-      "id": "C430FECE-52AE-49A4-BE08-99F9558ADA89"
+      "class": "symbolInstance",
+      "id": "CFA87833-38E5-4680-A3A0-B6DD8CB2A4AD"
     },
     {
       "class": "text",
