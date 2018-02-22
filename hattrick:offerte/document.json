@@ -19047,6 +19047,9 @@
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":13248966,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
+    },
+    "com.protowire.sketch.prototype": {
+      "formatVersion": 7
     }
   }
 }
