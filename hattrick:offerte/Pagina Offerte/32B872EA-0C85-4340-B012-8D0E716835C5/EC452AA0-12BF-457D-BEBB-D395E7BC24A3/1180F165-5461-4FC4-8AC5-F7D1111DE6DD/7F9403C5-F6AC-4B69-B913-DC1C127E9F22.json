@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "7F9403C5-F6AC-4B69-B913-DC1C127E9F22",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,15 +20,12 @@
     "y": 140
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Form / Option / Simple Copy 6",
   "nameIsFixed": false,
   "originalObjectID": "9C10B582-4DEB-4B90-B6E0-EC5888BEFDC1",
@@ -38,9 +36,6 @@
       "value": "Australia"
     }
   ],
-  "overrides": {
-    "059630E8-70C1-4D76-804C-78CB8CBBC922": "Australia"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -48,9 +43,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "3CFF9772-4EEC-401E-B34A-2C34DF47376A",
   "userInfo": {

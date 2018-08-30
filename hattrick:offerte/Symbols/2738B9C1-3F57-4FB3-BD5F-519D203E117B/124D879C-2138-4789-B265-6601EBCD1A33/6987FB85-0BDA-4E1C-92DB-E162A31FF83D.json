@@ -1,12 +1,41 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcnNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAiIyQlJicoNDU2Nzg5P0NLTE1OT1JWV1hjZmltblUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA1tXb3JrIGZvciB1c9MREgoTGiFXTlMua2V5c1pOUy5vYmplY3RzphQVFhcYGYAEgAWABoAHgAiACaYbHB0eHyCACoARgBmAGoAbgB+AEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtMREgopLiGkKissLYALgAyADYAOpC8vLy+AD4APgA+AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/wAAAAAAAA0jo7PD1aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiPD5YTlNPYmplY3TSCkBBQl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgpER0qiRUaAE4AUokhJgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCQAAAAAAABWVGFob21h0jo7UFFfEBNOU011dGFibGVEaWN0aW9uYXJ5o1A8PtI6O1NUXxAQTlNGb250RGVzY3JpcHRvcqJVPl8QEE5TRm9udERlc2NyaXB0b3IQABAB1llaCltcXV5fYGFXYVpOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAABACgB6AHIAc0hIKZGWggB3SOjtnaFdOU0FycmF5omc+0jo7amtfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNqbD5fEBBOU1BhcmFncmFwaFN0eWxlIwAAAAAAAAAA0jo7b3BfEBJOU0F0dHJpYnV0ZWRTdHJpbmeicT5fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRdHVUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsAlwCeAKYAsQC4ALoAvAC+AMAAwgDEAMsAzQDPANEA0wDVANcA2QEGASgBOgFGAVkBYAFnAWwBbgFwAXIBdAF5AXsBfQF/AYEBgwGHAY0BkgGYAaEBpgGxAboBxwHKAdMB2AH1AfcB+QIAAgMCBQIHAgoCDAIOAhACJgI8AkUCTAJRAmcCawJwAoMChgKZApsCnQKqArUCwQLOAvAC/AL+AwADAgMEAwYDCwMMAw4DEwMbAx4DIwM9A0EDVANdA2IDdwN6A48DoQOkA6kAAAAAAAACAQAAAAAAAAB2AAAAAAAAAAAAAAAAAAADqw=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Tahoma",
+              "size": 10
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 1
+        },
+        "length": 11,
+        "location": 0
+      }
+    ],
+    "string": "Work for us"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "6987FB85-0BDA-4E1C-92DB-E162A31FF83D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,7 +56,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 2}, {52, 9}}",
-  "heightIsClipped": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,30 +71,37 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJAAAAAAAAFZUYWhvbWHSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA2gDfAOoA8wEJAQ0BGgEjASgBOwE+AVEBYwFmAWsAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABbQ=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Tahoma",
+            "size": 10
+          }
         },
-        "NSKern": 0,
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBESExJaTlNUYWJTdG9wc1tOU0FsaWdubWVudFYkY2xhc3NcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbltOU1RleHRMaXN0c4AAEAKABIACEAGAAtIWCxcYWk5TLm9iamVjdHOggAPSGhscHVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHB5YTlNPYmplY3TSGhsgIV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyAiHl8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJSZUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFAAWwBnAG4AewCdAKkAqwCtAK8AsQCzALUAugDFAMYAyADNANgA4QDpAOwA9QD6ARQBGAErAT0BQAFFAAAAAAAAAgEAAAAAAAAAJwAAAAAAAAAAAAAAAAAAAUc="
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
         },
-        "NSStrikethrough": 0,
-        "NSUnderline": 1
+        "strikethroughStyle": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

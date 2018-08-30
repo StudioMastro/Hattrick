@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "421069BB-B480-4ED3-86C6-9B397DDD9C1E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,15 +20,12 @@
     "y": 114
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 5,
-  "masterInfluenceEdgeMinXPadding": 2,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Age",
   "nameIsFixed": true,
   "originalObjectID": "77B3D854-CDB2-4791-BFCF-21C39EA0E35C",
@@ -39,11 +37,6 @@
       "value": "Age"
     }
   ],
-  "overrides": {
-    "BE0C9E1F-9F9A-4CA8-9217-672BF802DE5B": {
-      "B30D2F4E-A6BC-4B3D-83CA-892ECEDE46DE": "Age"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -51,9 +44,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "94A8CAD4-D44C-443A-90BC-4DB057C8A993",
   "userInfo": {

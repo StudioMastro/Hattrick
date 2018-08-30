@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "13DF7F64-98B9-4F8B-BB61-50806E635268",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,15 +20,12 @@
     "y": 10
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Bookmark",
   "nameIsFixed": true,
   "overrideValues": [
@@ -37,11 +35,6 @@
       "value": "8D24E67A-1A8E-49A3-944D-4DB0C8A0D73C"
     }
   ],
-  "overrides": {
-    "29E43AAD-6F51-49D6-84C4-101B9345CB25": {
-      "symbolID": "8D24E67A-1A8E-49A3-944D-4DB0C8A0D73C"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -57,7 +50,7 @@
       "radius": 8.333333333333334,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
       {
@@ -81,7 +74,8 @@
         "spread": 0
       }
     ],
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "5340864A-E379-4939-9D8E-E7B9EC6EA973",
   "userInfo": {
