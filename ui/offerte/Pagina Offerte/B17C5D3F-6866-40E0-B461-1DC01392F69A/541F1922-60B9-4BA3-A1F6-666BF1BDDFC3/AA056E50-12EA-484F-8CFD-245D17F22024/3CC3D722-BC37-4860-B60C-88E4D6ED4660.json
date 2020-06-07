@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3CC3D722-BC37-4860-B60C-88E4D6ED4660",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,6 +20,7 @@
     "x": 576,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -37,13 +39,11 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D9BC29A8-3B48-40A8-A688-0229474072C3",
       "overrideName": "BE0C9E1F-9F9A-4CA8-9217-672BF802DE5B_symbolID",
       "value": "421A80EA-EC3E-41A8-A448-2DBBF8A2825B"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6846AFDD-B25D-47B7-BB95-63F24EFFBC7D",
       "overrideName": "BE0C9E1F-9F9A-4CA8-9217-672BF802DE5B/635BB5BD-E858-4153-9F51-21634D9D745D_stringValue",
       "value": "Current Bid/Price"
     }
@@ -55,8 +55,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "18F3ABFE-226E-460F-BFE4-62592EC7866F",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
