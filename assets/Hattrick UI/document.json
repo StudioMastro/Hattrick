@@ -1,0 +1,109 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2,
+        "green": 0.4117647058823529,
+        "red": 0.2078431372549019
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1607843137254902,
+        "green": 0.6549019607843137,
+        "red": 0.4274509803921568
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.824823473226096,
+        "green": 0.939625850340136,
+        "red": 0.8290754131192085
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1385422945022583,
+        "green": 0.6503673195838928,
+        "red": 0.9617109894752502
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1066960170865059,
+        "green": 0.007513228338211775,
+        "red": 0.816203773021698
+      },
+      {
+        "_class": "color",
+        "alpha": 0.87,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 0.54,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 0.34,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1094621494412422,
+        "green": 0.8629647745338329,
+        "red": 0.9707751870155334
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "2931BA04-75BE-4F2F-B67B-38AE94A0D12E",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "48.2",
+    "build": 47327,
+    "version": 97
+  },
+  "pages": [
+    "Live Match/Orders Page",
+    "MyOffice",
+    "MatchDetails",
+    "TransferSearch",
+    "Search",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":13248966,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
+    }
+  }
+}

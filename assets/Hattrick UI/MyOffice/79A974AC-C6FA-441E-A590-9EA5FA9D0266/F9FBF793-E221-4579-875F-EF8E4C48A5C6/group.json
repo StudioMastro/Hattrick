@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "F9FBF793-E221-4579-875F-EF8E4C48A5C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 14,
+    "x": 1040,
+    "y": 650
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D572DD1D-DB6D-4100-B6C8-6B70C464C3D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "268F260B-A599-45D9-86D8-152674058ACA"
+    }
+  ],
+  "name": "ic_account_balance_wallet_black_18px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

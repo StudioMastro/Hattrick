@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "5C231D7A-35C1-4E1A-B141-1BBB2082BE25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 25,
+    "x": 242,
+    "y": 19
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9CC8E11F-C6DF-4B2C-BF52-6F5FD468AF1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F016E95-833A-4D9D-B262-E2CB85EF2B41"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "917D8184-FA81-41B2-9B7E-89C5748C13C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "377754CC-9BC0-4AB1-A5B5-777C5A68877F"
+    }
+  ],
+  "name": "youtube",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

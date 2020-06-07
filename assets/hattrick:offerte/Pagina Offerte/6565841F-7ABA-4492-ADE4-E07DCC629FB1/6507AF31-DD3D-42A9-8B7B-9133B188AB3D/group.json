@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "6507AF31-DD3D-42A9-8B7B-9133B188AB3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 297,
+    "x": 17,
+    "y": 153
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D1C246A9-CF61-46A7-8CF2-86A8130A69EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BEE284B5-BDBA-4C88-A46E-166D2BC167DE"
+    },
+    {
+      "class": "group",
+      "id": "D7C390BA-19FA-4DAC-A942-379D10543202"
+    },
+    {
+      "class": "group",
+      "id": "CBF56C08-F491-4603-88EE-9861DCEBB9DD"
+    },
+    {
+      "class": "text",
+      "id": "71B2238C-A77E-4FDF-9573-0DB75316C4E3"
+    }
+  ],
+  "name": "Age Window",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "BC5CA267-3684-43E1-A2EA-A0183F09685E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 70,
+    "x": 170,
+    "y": 65
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "65A0638A-50D9-4005-A438-73DF9FC0D0FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3AF11B27-9710-491D-80C6-A974F2886A5E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D1632B8-E6BD-4443-9CEA-B423A5E2B1AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58E574CB-99A3-4255-907B-8B1A4F53CFB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25950013-A095-4CE5-9DEC-4A32651F3255"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB8C461F-9B03-4C76-B5F9-590E587BDB24"
+    }
+  ],
+  "name": "maglia2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

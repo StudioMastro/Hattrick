@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "do_objectID": "967C3037-63AD-4B70-8B80-675A22BD5F0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 296,
+    "width": 168,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "853691DF-2930-4A65-82DC-E4498F8A2C11"
+    },
+    {
+      "class": "text",
+      "id": "71D3783D-ED31-4415-BED1-F6FDF2C3563D"
+    },
+    {
+      "class": "text",
+      "id": "9D3194DA-F16E-4394-BCF4-15672ED89913"
+    },
+    {
+      "class": "text",
+      "id": "0ED6A599-646A-40E7-A8F7-5F4A5CD27F4C"
+    },
+    {
+      "class": "text",
+      "id": "0E1DA4DF-BF79-4E5C-A6C7-93E2D5CB06ED"
+    },
+    {
+      "class": "text",
+      "id": "6C069C7C-C94C-4168-9D3E-7B9AB10ABEAE"
+    },
+    {
+      "class": "text",
+      "id": "A935D619-78E0-449B-A7B5-B04D2343F005"
+    },
+    {
+      "class": "text",
+      "id": "0022E74A-2C25-4BB7-A61E-37A4929B3A53"
+    },
+    {
+      "class": "text",
+      "id": "7B9F03D8-EB72-43EA-ABB4-3355F9B09CDF"
+    },
+    {
+      "class": "text",
+      "id": "0785725F-1821-4CD1-BE94-401179021CC5"
+    },
+    {
+      "class": "text",
+      "id": "C858EE04-595A-4CA0-84C1-65F443115418"
+    },
+    {
+      "class": "text",
+      "id": "A85A312D-7CBF-47CE-80B4-8AB137EF1800"
+    },
+    {
+      "class": "text",
+      "id": "809107D5-0128-44BB-AB5B-03C74BA02808"
+    },
+    {
+      "class": "text",
+      "id": "F580EEF3-D10A-42F8-8105-E2DEF3A826C7"
+    },
+    {
+      "class": "group",
+      "id": "F9298CCC-B27B-4B1F-A16D-553B5328250C"
+    },
+    {
+      "class": "bitmap",
+      "id": "0521DAA0-DF3D-4794-85D5-3CCE8741EBBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A26B29B4-C8DB-4EA0-A7FB-1B277D73894B"
+    },
+    {
+      "class": "text",
+      "id": "F548EA7E-69BF-40E4-99B1-DCC3A7B610F5"
+    },
+    {
+      "class": "group",
+      "id": "33D144EE-9EC6-428B-8982-75294A2554D9"
+    }
+  ],
+  "name": "Card giocatore",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "_class": "group",
+  "do_objectID": "C52A4202-5A30-4493-A5DE-E730A005E8D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 296,
+    "width": 168,
+    "x": 184,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EDE25364-E36F-4374-B359-EEFC0ECF3114"
+    },
+    {
+      "class": "group",
+      "id": "AD2FE80A-0D71-402C-9F70-9D905E60E38F"
+    },
+    {
+      "class": "text",
+      "id": "57B97F92-18A4-4737-A653-FC20F8D52CEB"
+    },
+    {
+      "class": "text",
+      "id": "770C3520-20A8-4779-801B-FD609F8F7410"
+    },
+    {
+      "class": "text",
+      "id": "FB80F0C9-90FC-484A-A581-686ACBF43A6C"
+    },
+    {
+      "class": "text",
+      "id": "7447CF77-ABFE-4C21-9BC3-0ABD7ECD0B0C"
+    },
+    {
+      "class": "text",
+      "id": "25A5A2FF-0C69-4450-8560-FC2A9F7945BC"
+    },
+    {
+      "class": "text",
+      "id": "3F861A00-F216-40B6-9B2A-659FD4BF4B8F"
+    },
+    {
+      "class": "text",
+      "id": "9E115099-0C73-40D2-97AB-DD1598EC9863"
+    },
+    {
+      "class": "text",
+      "id": "868CFC5B-1E97-460D-80AF-CEF33CA933A9"
+    },
+    {
+      "class": "text",
+      "id": "A31B8EC4-8BC6-4458-969E-213F2EBD446B"
+    },
+    {
+      "class": "text",
+      "id": "585ABFE6-26BC-41C2-B319-D7283FB33B42"
+    },
+    {
+      "class": "text",
+      "id": "3A2E22E1-45C8-4718-B588-F41A4F1CF584"
+    },
+    {
+      "class": "text",
+      "id": "F9AD8479-C3E5-4D52-9655-3527D4CDE896"
+    },
+    {
+      "class": "text",
+      "id": "1F528ABC-9428-4FBF-9CDC-F40945781730"
+    },
+    {
+      "class": "group",
+      "id": "855C7CA1-7AF9-4A47-A9BA-DBEACE2ECB38"
+    },
+    {
+      "class": "bitmap",
+      "id": "9F6292D5-58A9-42EF-A87D-0830BADBC2CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "877B6CDC-3F29-4AD3-906E-5465BD5AFD93"
+    },
+    {
+      "class": "text",
+      "id": "9080155C-86F3-4598-A8F3-E397EF670BED"
+    },
+    {
+      "class": "group",
+      "id": "A959099B-DD45-4B6F-81B9-53D4B5A81D18"
+    }
+  ],
+  "name": "Card giocatore selezionato Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

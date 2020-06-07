@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "0903C221-3EA4-4CD1-940B-408A3B508EE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 170,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4DD6E0FF-5EAF-454B-83EF-103FBB4C6304"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA56AF4F-C21C-47EF-9892-798DC3F5F422"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F235CD85-00E6-4ABE-AA8E-1F51D11F519F"
+    },
+    {
+      "class": "text",
+      "id": "BF60C54E-6D0A-4B94-AA91-00B459A5F450"
+    },
+    {
+      "class": "group",
+      "id": "2372347C-8948-46A1-BBCE-C58D156E95B6"
+    },
+    {
+      "class": "text",
+      "id": "A37C5EE8-B5B3-4389-A2D1-9AB66E5985E4"
+    },
+    {
+      "class": "group",
+      "id": "79DBA1EC-54ED-4CB9-BA2C-8C555DA8854B"
+    }
+  ],
+  "name": "Sheet teams selection",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
