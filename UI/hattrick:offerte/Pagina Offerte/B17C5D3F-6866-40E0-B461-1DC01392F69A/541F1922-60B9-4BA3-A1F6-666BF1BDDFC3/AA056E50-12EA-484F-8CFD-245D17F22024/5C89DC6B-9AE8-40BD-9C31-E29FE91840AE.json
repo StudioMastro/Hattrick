@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "5C89DC6B-9AE8-40BD-9C31-E29FE91840AE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,22 +20,17 @@
     "y": 1
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Form / Top Title",
   "nameIsFixed": false,
   "originalObjectID": "BF592174-F1C4-4EF5-BF65-83CFB4E85CBA",
   "overrideValues": [
   ],
-  "overrides": {
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -42,9 +38,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "F7254807-8388-4650-89B2-CBE8763EC25C",
   "userInfo": {

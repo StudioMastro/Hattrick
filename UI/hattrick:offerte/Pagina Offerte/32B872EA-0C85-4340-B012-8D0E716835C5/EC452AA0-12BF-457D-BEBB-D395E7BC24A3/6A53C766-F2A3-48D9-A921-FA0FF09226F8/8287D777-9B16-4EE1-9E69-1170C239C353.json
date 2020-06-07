@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "8287D777-9B16-4EE1-9E69-1170C239C353",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,15 +20,12 @@
     "y": 0
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 5,
-  "masterInfluenceEdgeMinXPadding": 2,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Speciality",
   "nameIsFixed": true,
   "originalObjectID": "77B3D854-CDB2-4791-BFCF-21C39EA0E35C",
@@ -48,15 +46,6 @@
       "value": "Specialty"
     }
   ],
-  "overrides": {
-    "9CBFEE67-1858-47EF-8037-C4E424DB72DB": {
-      "symbolID": "17A2113A-723F-4351-8FED-3067628D8296"
-    },
-    "BE0C9E1F-9F9A-4CA8-9217-672BF802DE5B": {
-      "635BB5BD-E858-4153-9F51-21634D9D745D": "Specialty",
-      "symbolID": "421A80EA-EC3E-41A8-A448-2DBBF8A2825B"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -64,9 +53,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "94A8CAD4-D44C-443A-90BC-4DB057C8A993",
   "userInfo": {

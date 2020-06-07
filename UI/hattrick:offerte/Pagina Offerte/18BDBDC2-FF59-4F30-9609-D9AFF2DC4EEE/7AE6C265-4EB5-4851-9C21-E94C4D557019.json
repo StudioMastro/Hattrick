@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "7AE6C265-4EB5-4851-9C21-E94C4D557019",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,15 +20,12 @@
     "y": 113
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 5,
-  "masterInfluenceEdgeMinXPadding": 2,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Current Bid/Price",
   "nameIsFixed": true,
   "originalObjectID": "77B3D854-CDB2-4791-BFCF-21C39EA0E35C",
@@ -43,14 +41,6 @@
       "value": "FA4A17D4-D254-4B6A-ADAB-47BD2E725AE0"
     }
   ],
-  "overrides": {
-    "9CBFEE67-1858-47EF-8037-C4E424DB72DB": {
-      "symbolID": "FA4A17D4-D254-4B6A-ADAB-47BD2E725AE0"
-    },
-    "BE0C9E1F-9F9A-4CA8-9217-672BF802DE5B": {
-      "B30D2F4E-A6BC-4B3D-83CA-892ECEDE46DE": "Current Bid/Price"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -58,9 +48,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "94A8CAD4-D44C-443A-90BC-4DB057C8A993",
   "userInfo": {

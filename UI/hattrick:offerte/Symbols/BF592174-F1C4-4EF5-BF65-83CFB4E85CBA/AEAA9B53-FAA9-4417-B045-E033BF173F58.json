@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "AEAA9B53-FAA9-4417-B045-E033BF173F58",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,15 +20,12 @@
     "y": 15
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Drop Down",
   "nameIsFixed": true,
   "originalObjectID": "AEAA9B53-FAA9-4417-B045-E033BF173F58",
@@ -39,11 +37,6 @@
       "value": "8B8D46A2-57EB-4A7B-80BB-2084A4E2AB6F"
     }
   ],
-  "overrides": {
-    "E7B8358C-E857-40BF-829E-A626EF9DCEDC": {
-      "symbolID": "8B8D46A2-57EB-4A7B-80BB-2084A4E2AB6F"
-    }
-  },
   "resizingConstraint": 36,
   "resizingType": 0,
   "rotation": 0,
@@ -59,9 +52,10 @@
       "radius": 5.833333333333334,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "F3CC68A4-AFDB-471E-AAA3-E71899859212",
   "userInfo": {

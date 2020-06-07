@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "4318C83B-9F73-40AC-9B2F-45C1133D844D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,15 +20,12 @@
     "y": 2
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "List",
   "nameIsFixed": true,
   "overrideValues": [
@@ -37,11 +35,6 @@
       "value": "8B8D46A2-57EB-4A7B-80BB-2084A4E2AB6F"
     }
   ],
-  "overrides": {
-    "89F2E75A-8FA7-4EAD-95E8-62EED8E0AF4B": {
-      "symbolID": "8B8D46A2-57EB-4A7B-80BB-2084A4E2AB6F"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -57,9 +50,10 @@
       "radius": 4.166666666666667,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "03B4BF29-E784-48FE-B028-830C83A90F27",
   "userInfo": {
