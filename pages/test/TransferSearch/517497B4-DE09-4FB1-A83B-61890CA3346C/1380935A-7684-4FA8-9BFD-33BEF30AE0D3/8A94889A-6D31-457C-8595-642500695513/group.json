@@ -1,0 +1,121 @@
+{
+  "_class": "group",
+  "do_objectID": "8A94889A-6D31-457C-8595-642500695513",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 296,
+    "width": 168,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DDDCF25B-4136-4FFE-99A7-AD51C6AF3204"
+    },
+    {
+      "class": "text",
+      "id": "37C48B81-7E26-4FF3-A454-9FB09CC98700"
+    },
+    {
+      "class": "text",
+      "id": "B1BF5E02-72AE-4858-9843-72C7F5F619DA"
+    },
+    {
+      "class": "text",
+      "id": "4B1BCB59-AE10-458F-8F3E-0C07CA0E64A7"
+    },
+    {
+      "class": "text",
+      "id": "827DB92C-B31C-4EFF-9DFC-0D97F7DBEC3B"
+    },
+    {
+      "class": "text",
+      "id": "68D8B561-3A3A-414C-AA72-66220ACFF6E1"
+    },
+    {
+      "class": "text",
+      "id": "8753D0CB-778B-473F-A6A2-A009A5E30150"
+    },
+    {
+      "class": "text",
+      "id": "E2427A2A-B832-47E5-8F08-0309FB512ABD"
+    },
+    {
+      "class": "text",
+      "id": "01C42A65-DA4C-4BDC-B503-88F16B4E81E3"
+    },
+    {
+      "class": "text",
+      "id": "9C59761C-6966-43F0-9CE0-7BFBD527FAF0"
+    },
+    {
+      "class": "text",
+      "id": "9CC7590F-81AD-4427-B00B-6291204DC1F7"
+    },
+    {
+      "class": "text",
+      "id": "A5ED46E2-F5D3-4163-861C-BBC26E6BE4A0"
+    },
+    {
+      "class": "text",
+      "id": "7464BD0D-368A-44B3-99B3-A11E9A226A6D"
+    },
+    {
+      "class": "text",
+      "id": "5B2128FE-B23F-492C-9D0F-B80CE8B75A25"
+    },
+    {
+      "class": "group",
+      "id": "EE215199-4BD9-45DF-873A-A0DA26D54080"
+    },
+    {
+      "class": "bitmap",
+      "id": "6578EB7E-4EC3-45F1-B94A-C1D34FE81D2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D49D4FF9-E806-44B1-BD7F-2157B03D5ADF"
+    },
+    {
+      "class": "text",
+      "id": "AF3F4C86-2DFC-441A-A6CD-B5B41C40374A"
+    },
+    {
+      "class": "group",
+      "id": "829F8699-E328-43D4-BCB0-F22A9DB94930"
+    },
+    {
+      "class": "group",
+      "id": "5EB8AECE-651E-4E39-AE0E-C173B28CE1E2"
+    }
+  ],
+  "name": "Card giocatore Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

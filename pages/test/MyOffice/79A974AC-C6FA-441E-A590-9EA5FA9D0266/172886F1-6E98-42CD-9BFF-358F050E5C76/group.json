@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "172886F1-6E98-42CD-9BFF-358F050E5C76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 56,
+    "x": 944,
+    "y": 996
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E3518B20-23C9-41F8-A9C9-98050C79D1D6"
+    },
+    {
+      "class": "group",
+      "id": "56A80AE1-9A81-44B5-A8D3-B7C047E1EAFE"
+    }
+  ],
+  "name": "FAB more",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

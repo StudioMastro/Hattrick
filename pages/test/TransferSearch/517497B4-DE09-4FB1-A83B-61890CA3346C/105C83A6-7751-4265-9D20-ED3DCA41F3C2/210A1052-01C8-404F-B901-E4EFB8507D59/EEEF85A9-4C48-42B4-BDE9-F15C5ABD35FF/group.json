@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "EEEF85A9-4C48-42B4-BDE9-F15C5ABD35FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C0A0EACF-4245-4B2D-BA3C-1C38F0CEE146"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "91741766-8B62-4C85-AF82-D2AF4378F837"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A876D944-DE4D-4759-B5DA-2BDE0EDC0907"
+    }
+  ],
+  "name": "ic_radio_button_unchecked_black_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
