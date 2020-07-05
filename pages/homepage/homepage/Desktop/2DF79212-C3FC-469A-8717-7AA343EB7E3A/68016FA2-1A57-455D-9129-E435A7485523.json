@@ -17,8 +17,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 8120,
-    "width": 3360,
+    "height": 4060,
+    "width": 1680,
     "x": 0,
     "y": 0
   },
@@ -35,8 +35,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "hattrick.org:it:.png",
-  "nameIsFixed": false,
+  "name": "hattrick.org/it/",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -90,6 +90,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 3973,
+            "enabled": 1,
+            "modelID": "constraint_e275c066-13d4-4d34-a671-9d0fef5f4dc2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 1644
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_fb63b656-2029-458e-88b5-70a1fde25a20",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
       }
     }
   }

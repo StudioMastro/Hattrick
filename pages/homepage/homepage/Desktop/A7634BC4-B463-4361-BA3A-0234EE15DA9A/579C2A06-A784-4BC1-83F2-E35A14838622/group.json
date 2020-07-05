@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2DF79212-C3FC-469A-8717-7AA343EB7E3A",
+  "do_objectID": "579C2A06-A784-4BC1-83F2-E35A14838622",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,64 +15,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4060,
-    "width": 1680,
-    "x": -17,
-    "y": -4347
+    "height": 33,
+    "width": 1110,
+    "x": 165,
+    "y": 40
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-      270,
-      1410
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "68016FA2-1A57-455D-9129-E435A7485523"
+      "class": "symbolInstance",
+      "id": "02FCC264-A38F-413F-828D-C8388EF056F3"
+    },
+    {
+      "class": "group",
+      "id": "326C7A80-11E7-411A-81FB-968CE0D28379"
+    },
+    {
+      "class": "group",
+      "id": "99C16875-4854-4BB8-B245-BB55B878F040"
+    },
+    {
+      "class": "group",
+      "id": "3C49CC1C-70E1-47BC-B031-B4EDEBCC872C"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 65,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 30,
-    "guttersOutside": true,
-    "horizontalOffset": 270,
-    "isEnabled": true,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1140
-  },
-  "name": "Homepage",
+  "name": "Header_bottom",
   "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -114,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F1BC0FB0-51A2-4D7C-8777-002CE18A6CDB",
+    "do_objectID": "11DD96FA-680A-4C20-8FBB-CB8E463F8005",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -125,11 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

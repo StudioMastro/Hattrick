@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2DF79212-C3FC-469A-8717-7AA343EB7E3A",
+  "do_objectID": "D7DF120B-F88E-4FA5-B4AF-EF6A65ACC519",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,64 +15,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4060,
-    "width": 1680,
-    "x": -17,
-    "y": -4347
+    "height": 3,
+    "width": 600,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-      270,
-      1410
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "68016FA2-1A57-455D-9129-E435A7485523"
+      "class": "rectangle",
+      "id": "5DFEB0CC-0870-4D4B-9B91-24A606C2BE35"
+    },
+    {
+      "class": "rectangle",
+      "id": "AC2059A5-C610-4CF2-AF2B-8BB3D5128990"
+    },
+    {
+      "class": "rectangle",
+      "id": "7CDD5649-FF44-476A-B83F-5AE89E9DFD84"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 65,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 30,
-    "guttersOutside": true,
-    "horizontalOffset": 270,
-    "isEnabled": true,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1140
-  },
-  "name": "Homepage",
-  "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -114,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F1BC0FB0-51A2-4D7C-8777-002CE18A6CDB",
+    "do_objectID": "67C59F52-9CB5-4024-BB16-A5D005993476",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -125,11 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

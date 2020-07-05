@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2DF79212-C3FC-469A-8717-7AA343EB7E3A",
+  "do_objectID": "A7634BC4-B463-4361-BA3A-0234EE15DA9A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,9 +22,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4060,
-    "width": 1680,
-    "x": -17,
+    "height": 3315,
+    "width": 1440,
+    "x": 1713,
     "y": -4347
   },
   "groupLayout": {
@@ -37,8 +37,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      270,
-      1410
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -49,11 +47,31 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
-      "id": "68016FA2-1A57-455D-9129-E435A7485523"
+      "id": "919226AE-80BF-4DB4-AAE2-DD3CB2B42B0C"
+    },
+    {
+      "class": "group",
+      "id": "16CB5189-E199-46AD-BCB7-97BBF2C64212"
+    },
+    {
+      "class": "group",
+      "id": "D7DF120B-F88E-4FA5-B4AF-EF6A65ACC519"
+    },
+    {
+      "class": "group",
+      "id": "579C2A06-A784-4BC1-83F2-E35A14838622"
+    },
+    {
+      "class": "group",
+      "id": "2EE73D39-0E9F-460E-8B9D-50B1B7B104D9"
+    },
+    {
+      "class": "text",
+      "id": "A8E896CC-E827-4EF8-8C9E-EA726593CE66"
     }
   ],
   "layout": {
@@ -65,7 +83,7 @@
     "gutterHeight": 12,
     "gutterWidth": 30,
     "guttersOutside": true,
-    "horizontalOffset": 270,
+    "horizontalOffset": 150,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
@@ -74,6 +92,11 @@
   "name": "Homepage",
   "nameIsFixed": true,
   "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -114,7 +137,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F1BC0FB0-51A2-4D7C-8777-002CE18A6CDB",
+    "do_objectID": "D25A043A-FDBB-437D-B7E7-625A29273A34",
     "endMarkerType": 0,
     "fills": [
     ],
