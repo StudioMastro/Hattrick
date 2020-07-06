@@ -137,7 +137,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "A9985776-6143-48E5-91DE-82B9DBA20652",
+  "sharedStyleID": "1822A769-D652-4A10-A203-89D4C8CD974F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -236,5 +236,13 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "A9985776-6143-48E5-91DE-82B9DBA20652",
+        "sharedStyleName": "Primary/277E31"
+      }
+    }
   }
 }

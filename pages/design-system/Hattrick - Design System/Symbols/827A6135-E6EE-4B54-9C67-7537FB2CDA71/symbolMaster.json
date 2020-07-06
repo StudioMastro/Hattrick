@@ -1,8 +1,17 @@
 {
-  "_class": "symbolInstance",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 1122,
   "clippingMaskMode": 0,
-  "do_objectID": "D0B86594-1FC0-4699-9A9D-CEBAB6DC9272",
+  "do_objectID": "827A6135-E6EE-4B54-9C67-7537FB2CDA71",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,26 +26,62 @@
     "constrainProportions": false,
     "height": 44,
     "width": 182,
-    "x": -1017,
-    "y": 1376
+    "x": -1171,
+    "y": 1530
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0DD5E272-507B-4103-9931-4E504DCAC36A"
+    },
+    {
+      "class": "shapePath",
+      "id": "62B8E976-4565-4C54-9237-1DC8339BA3FB"
+    }
+  ],
   "name": "Logo/Green",
   "nameIsFixed": false,
-  "overrideValues": [
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0DD5E272-507B-4103-9931-4E504DCAC36A_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "62B8E976-4565-4C54-9237-1DC8339BA3FB_layerStyle"
+    }
   ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -71,7 +116,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2FA2F9A5-E511-4071-89D5-0A21D7DE921B",
+    "do_objectID": "077DB369-3CEC-46EF-A3C2-E80485994B09",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,5 +129,10 @@
     "windingRule": 1
   },
   "symbolID": "E933542A-F09D-4A36-BCF3-C92E27016CCA",
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
 }

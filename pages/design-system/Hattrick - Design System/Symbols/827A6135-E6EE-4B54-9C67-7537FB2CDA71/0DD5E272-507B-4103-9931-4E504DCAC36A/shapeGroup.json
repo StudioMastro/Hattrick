@@ -193,6 +193,12 @@
           "scaleFactor": 1
         }
       }
+    },
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "A9985776-6143-48E5-91DE-82B9DBA20652",
+        "sharedStyleName": "Primary/277E31"
+      }
     }
   },
   "windingRule": 1

@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "A9985776-6143-48E5-91DE-82B9DBA20652",
-  "name": "Primary/Green 277E31",
+  "do_objectID": "1822A769-D652-4A10-A203-89D4C8CD974F",
+  "name": "Primary/Yellow",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F55A4E14-9C9A-4012-AE9B-A2A29A302496",
+    "do_objectID": "4733E7F7-CD38-4046-9A9E-7C445AE2E9C9",
     "endMarkerType": 0,
     "fills": [
       {
@@ -44,9 +44,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1921568627450981,
-          "green": 0.4941176470588236,
-          "red": 0.1529411764705882
+          "blue": 0,
+          "green": 0.8,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

@@ -39,12 +39,77 @@
       }
     },
     "images": [
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/03b0bc6888c5db16b81359c081a89f7cbe10ecf1.png",
+        "_ref_class": "MSImageData"
+      }
     ]
   },
   "autoEmbedFonts": false,
   "colorSpace": 1,
   "do_objectID": "94C6D302-CBE7-420F-8CA7-42D5B23B1C88",
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0B96B0FD-7585-4A8E-82A1-5EACF39A35B3",
+      "fontFamilyName": "DM Sans",
+      "fontFileName": "DMSans-Regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "DMSans-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "44ADBC6F-CDF2-4A43-8873-644F442938A9",
+      "fontFamilyName": "DM Sans",
+      "fontFileName": "DMSans-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "DMSans-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "464F2544-5ED6-4907-A2F4-BFB3AD899D80",
+      "fontFamilyName": "DM Sans",
+      "fontFileName": "DMSans-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "DMSans-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9D6D1134-9156-4CAA-835E-F95012269CC6",
+      "fontFamilyName": "DM Sans",
+      "fontFileName": "DMSans-Medium.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "DMSans-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C2106C6B-B9EF-43B4-B24F-740F296225A3",
+      "fontFamilyName": "DM Sans",
+      "fontFileName": "DMSans-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "DMSans-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DC0D8444-0EF1-41C2-84E9-2702F3C75741",
+      "fontFamilyName": "DM Sans",
+      "fontFileName": "DMSans-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "DMSans-Italic"
+      ]
+    }
   ],
   "foreignLayerStyles": [
   ],
@@ -65,7 +130,8 @@
     "version": 130
   },
   "pages": [
-    "Page 1"
+    "Library Preview",
+    "Symbols"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
